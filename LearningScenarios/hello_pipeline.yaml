@@ -8,7 +8,7 @@ metadata:
     executables.ai.sap.com/description: "Greets the user S13"
     executables.ai.sap.com/name: "S13 Hello Pipeline"
   labels:
-    scenarios.ai.sap.com/id: "s13 learning 01"
+    scenarios.ai.sap.com/id: "s13-learning-01"
     ai.sap.com/version: "1.0"
 spec:
   entrypoint: mys13pipeline
